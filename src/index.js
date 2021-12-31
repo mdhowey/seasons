@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Clock from './Clock';
 import SeasonDisplay from './SeasonDisplay';
 import Spinner from './Spinner';
 
